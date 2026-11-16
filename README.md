@@ -35,6 +35,8 @@ Desenvolver uma carreira na área de Dados, aprofundando meus conhecimentos em b
 * **Especialidades e Gestão:** Inteligência Artificial, Arquitetura de Software, Gestão de Projetos e Inglês Técnico.
 
 ---
+## 📂 Projetos e Portfólio
+> *Este espaço está preparado para receber meus futuros projetos acadêmicos e pessoais nas áreas de Ciência de Dados, Banco de Dados e Desenvolvimento de Software. Em breve, novos repositórios serão publicados aqui!*
 
 ## 🌐 Conecte-se Comigo
 * **LinkedIn:** https://www.linkedin.com/in/lucascordeirotech/
